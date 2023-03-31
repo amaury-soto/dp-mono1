@@ -12,6 +12,9 @@ yarn dev
 pnpm dev
 ```
 
+[![Screenshot-2023-03-31-at-3-57-52-PM.png](https://i.postimg.cc/CMW6q33G/Screenshot-2023-03-31-at-3-57-52-PM.png)](https://postimg.cc/Sjfr0vNR)
+
+[![Screenshot-2023-03-31-at-3-57-59-PM.png](https://i.postimg.cc/90Tbbf6G/Screenshot-2023-03-31-at-3-57-59-PM.png)](https://postimg.cc/4HfpNXNd)
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
