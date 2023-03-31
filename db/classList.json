@@ -1,0 +1,799 @@
+{
+  "classList": [
+    {
+      "class": {
+        "id": "00437f62-24d3-47ca-8780-6cd1b9378617",
+        "name": "school1-class-F",
+        "teachers": [
+          {
+            "id": "3a18f685-e44d-489f-b192-64e81f489a4a",
+            "name": {
+              "first": "Teacher",
+              "middle": "",
+              "last": "Five",
+              "username": "sone.tfive@mailinator.com"
+            }
+          }
+        ],
+        "content": [
+          {
+            "course": {
+              "id": "em.g4",
+              "name": "Grade 4",
+              "curriculum": {
+                "id": "em",
+                "name": "Eureka Math"
+              }
+            },
+            "product": {
+              "id": "in-sync",
+              "name": "In Sync"
+            }
+          },
+          {
+            "course": {
+              "id": "em.g6",
+              "name": "Grade 6",
+              "curriculum": {
+                "id": "em",
+                "name": "Eureka Math"
+              }
+            },
+            "product": {
+              "id": "in-sync",
+              "name": "In Sync"
+            }
+          }
+        ],
+        "grade": { "name": "Grade 4", "id": "04" },
+        "period": "Default",
+        "subject": "math",
+        "district": {
+          "id": "c577eeee-ac53-4c0f-aaf6-1795b4f84f0c",
+          "name": "Assessment Test District"
+        },
+        "school": {
+          "id": "974db194-7693-402e-acc3-33ae338b63cf",
+          "name": "Assessment School One"
+        },
+        "schoolYear": {
+          "id": "3745794b-ebcb-4c83-aed1-d7c37a6e1597",
+          "name": "2021-2022",
+          "subject": "Test Sub"
+        },
+        "totalStudents": "1",
+        "primaryTeacher": {
+          "id": "d42ce1e7-d51f-42ab-84af-1e7179452c11",
+          "name": {
+            "first": "Teacher",
+            "middle": "",
+            "last": "Five",
+            "username": "sone.tfive@mailinator.com"
+          }
+        }
+      },
+      "syncErrors": []
+    },
+    {
+      "class": {
+        "id": "b2db297c-33fd-421a-9f9d-8f26a8a2551e",
+        "name": "school1-class-J",
+        "teachers": [
+          {
+            "id": "f404c1ac-655a-470d-8ec5-1f7ca971ff75",
+            "name": {
+              "first": "Teacher",
+              "middle": "",
+              "last": "Eight",
+              "username": "sone.teight@mailinator.com"
+            }
+          }
+        ],
+        "content": [
+          {
+            "course": {
+              "id": "em.g5",
+              "name": "Grade 5",
+              "curriculum": {
+                "id": "em",
+                "name": "Eureka Math"
+              }
+            },
+            "product": {
+              "id": "equip",
+              "name": "Equip"
+            }
+          }
+        ],
+        "grade": { "name": "Grade 5", "id": "05" },
+        "period": "Default",
+        "subject": "ela",
+        "district": {
+          "id": "c577eeee-ac53-4c0f-aaf6-1795b4f84f0c",
+          "name": "Assessment Test District"
+        },
+        "school": {
+          "id": "974db194-7693-402e-acc3-33ae338b63cf",
+          "name": "Assessment School One"
+        },
+        "schoolYear": {
+          "id": "3745794b-ebcb-4c83-aed1-d7c37a6e1597",
+          "name": "2021-2022",
+          "subject": "Test Sub"
+        },
+        "totalStudents": "1",
+        "primaryTeacher": {
+          "id": "f404c1ac-655a-470d-8ec5-1f7ca971ff75",
+          "name": {
+            "first": "Teacher",
+            "middle": "",
+            "last": "Eight",
+            "username": "sone.teight@mailinator.com"
+          }
+        }
+      },
+      "syncErrors": []
+    },
+    {
+      "class": {
+        "id": "6aa0e896-279b-4f16-81c4-dc8589494f12",
+        "name": "school1-class-I",
+        "teachers": [
+          {
+            "id": "986a75d8-890f-43dd-a593-36b17346a1e0",
+            "name": {
+              "first": "Teacher",
+              "middle": "",
+              "last": "Seven",
+              "username": "sone.tseven@mailinator.com"
+            }
+          }
+        ],
+        "content": [],
+        "grade": { "name": "Grade 9", "id": "09" },
+        "period": "Default",
+        "subject": "Test Sub",
+        "district": {
+          "id": "c577eeee-ac53-4c0f-aaf6-1795b4f84f0c",
+          "name": "Assessment Test District"
+        },
+        "school": {
+          "id": "974db194-7693-402e-acc3-33ae338b63cf",
+          "name": "Assessment School One"
+        },
+        "schoolYear": {
+          "id": "3745794b-ebcb-4c83-aed1-d7c37a6e1597",
+          "name": "2021-2022",
+          "subject": "Test Sub"
+        },
+        "totalStudents": "1",
+        "primaryTeacher": {
+          "id": "986a75d8-890f-43dd-a593-36b17346a1e0",
+          "name": {
+            "first": "Teacher",
+            "middle": "",
+            "last": "Seven",
+            "username": "sone.tseven@mailinator.com"
+          }
+        }
+      },
+      "syncErrors": [
+        {
+          "code": "class-course-missing",
+          "message": "Class-Course relation does not exist in database"
+        }
+      ]
+    },
+    {
+      "class": {
+        "id": "21f81f0c-3eec-4a77-a277-a350aee388cf",
+        "name": "school1-class-H",
+        "teachers": [
+          {
+            "id": "a4db9d47-ee58-4e85-87d8-c6eb8794dc16",
+            "name": {
+              "first": "Teacher",
+              "middle": "",
+              "last": "Six",
+              "username": "sone.tsix@mailinator.com"
+            }
+          }
+        ],
+        "content": [
+          {
+            "course": {
+              "id": "ww.g5",
+              "name": "Grade 5",
+              "curriculum": {
+                "id": "ww",
+                "name": "Wit & Wisdom"
+              }
+            },
+            "product": {
+              "id": "affirm",
+              "name": "Affirm"
+            }
+          },
+          {
+            "course": {
+              "id": "em.g5",
+              "name": "Grade 5",
+              "curriculum": {
+                "id": "em",
+                "name": "Eureka Math"
+              }
+            },
+            "product": {
+              "id": "equip",
+              "name": "Equip"
+            }
+          }
+        ],
+        "grade": { "name": "Grade 5", "id": "05" },
+        "period": "Default",
+        "subject": "Test Sub",
+        "district": {
+          "id": "c577eeee-ac53-4c0f-aaf6-1795b4f84f0c",
+          "name": "Assessment Test District"
+        },
+        "school": {
+          "id": "974db194-7693-402e-acc3-33ae338b63cf",
+          "name": "Assessment School One"
+        },
+        "schoolYear": {
+          "id": "3745794b-ebcb-4c83-aed1-d7c37a6e1597",
+          "name": "2021-2022",
+          "subject": "Test Sub"
+        },
+        "totalStudents": "1",
+        "primaryTeacher": {
+          "id": "a4db9d47-ee58-4e85-87d8-c6eb8794dc16",
+          "name": {
+            "first": "Teacher",
+            "middle": "",
+            "last": "Six",
+            "username": "sone.tsix@mailinator.com"
+          }
+        }
+      },
+      "syncErrors": []
+    },
+    {
+      "class": {
+        "id": "a241463f-9189-463f-a5aa-6f6e6c6b0166",
+        "name": "school1-class-G",
+        "teachers": [
+          {
+            "id": "a4db9d47-ee58-4e85-87d8-c6eb8794dc16",
+            "name": {
+              "first": "Teacher",
+              "middle": "",
+              "last": "Six",
+              "username": "sone.tsix@mailinator.com"
+            }
+          }
+        ],
+        "content": [
+          {
+            "course": {
+              "id": "ww.g2",
+              "name": "Grade 2",
+              "curriculum": {
+                "id": "ww",
+                "name": "Wit & Wisdom"
+              }
+            },
+            "product": {
+              "id": "in-sync",
+              "name": "In Sync"
+            }
+          },
+          {
+            "course": {
+              "id": "ww.g2",
+              "name": "Grade 2",
+              "curriculum": {
+                "id": "ww",
+                "name": "Wit & Wisdom"
+              }
+            },
+            "product": {
+              "id": "geodes",
+              "name": "Geodes"
+            }
+          }
+        ],
+        "grade": { "name": "Grade 2", "id": "02" },
+        "period": "Default",
+        "subject": "Test Sub",
+        "district": {
+          "id": "c577eeee-ac53-4c0f-aaf6-1795b4f84f0c",
+          "name": "Assessment Test District"
+        },
+        "school": {
+          "id": "974db194-7693-402e-acc3-33ae338b63cf",
+          "name": "Assessment School One"
+        },
+        "schoolYear": {
+          "id": "3745794b-ebcb-4c83-aed1-d7c37a6e1597",
+          "name": "2021-2022",
+          "subject": "Test Sub"
+        },
+        "totalStudents": "1",
+        "primaryTeacher": {
+          "id": "a4db9d47-ee58-4e85-87d8-c6eb8794dc16",
+          "name": {
+            "first": "Teacher",
+            "middle": "",
+            "last": "Six",
+            "username": "sone.tsix@mailinator.com"
+          }
+        }
+      },
+      "syncErrors": []
+    },
+    {
+      "class": {
+        "id": "586a5580-d439-4de3-be77-db2ece9cfa56",
+        "name": "school1-class-B",
+        "teachers": [
+          {
+            "id": "e6ef15f9-2798-4b7a-a3ee-1b9aeb4d186e",
+            "name": {
+              "first": "Teacher",
+              "middle": "",
+              "last": "Two",
+              "username": "sone.ttwo@mailinator.com"
+            }
+          }
+        ],
+        "content": [
+          {
+            "course": {
+              "id": "ww.gk",
+              "name": "Grade K",
+              "curriculum": {
+                "id": "ww",
+                "name": "Wit & Wisdom"
+              }
+            },
+            "product": {
+              "id": "in-sync",
+              "name": "In Sync"
+            }
+          },
+          {
+            "course": {
+              "id": "em.gk",
+              "name": "Grade K",
+              "curriculum": {
+                "id": "em",
+                "name": "Eureka Math"
+              }
+            },
+            "product": {
+              "id": "in-sync",
+              "name": "In Sync"
+            }
+          },
+          {
+            "course": {
+              "id": "em.gk",
+              "name": "Grade K",
+              "curriculum": {
+                "id": "em",
+                "name": "Eureka Math"
+              }
+            },
+            "product": {
+              "id": "em-nav",
+              "name": "Eureka Math Navigator"
+            }
+          },
+          {
+            "course": {
+              "id": "ww.gk",
+              "name": "Grade K",
+              "curriculum": {
+                "id": "ww",
+                "name": "Wit & Wisdom"
+              }
+            },
+            "product": {
+              "id": "inkling",
+              "name": "Inkling"
+            }
+          }
+        ],
+        "grade": { "name": "Grade 1", "id": "01" },
+        "period": "Default",
+        "subject": "Test Sub",
+        "district": {
+          "id": "c577eeee-ac53-4c0f-aaf6-1795b4f84f0c",
+          "name": "Assessment Test District"
+        },
+        "school": {
+          "id": "974db194-7693-402e-acc3-33ae338b63cf",
+          "name": "Assessment School One"
+        },
+        "schoolYear": {
+          "id": "3745794b-ebcb-4c83-aed1-d7c37a6e1597",
+          "name": "2021-2022",
+          "subject": "Test Sub"
+        },
+        "totalStudents": "1",
+        "primaryTeacher": {
+          "id": "e6ef15f9-2798-4b7a-a3ee-1b9aeb4d186e",
+          "name": {
+            "first": "Teacher",
+            "middle": "",
+            "last": "Two",
+            "username": "sone.ttwo@mailinator.com"
+          }
+        }
+      },
+      "syncErrors": []
+    },
+    {
+      "class": {
+        "id": "077d729b-de30-402f-ae60-c8b69be44fe6",
+        "name": "school1-class-C",
+        "teachers": [
+          {
+            "id": "f6083067-067e-450b-ac91-ce1aa50b1df1",
+            "name": {
+              "first": "Teacher",
+              "middle": "",
+              "last": "Three",
+              "username": "sone.tthree@mailinator.com"
+            }
+          }
+        ],
+        "content": [
+          {
+            "course": {
+              "id": "em.gk",
+              "name": "Grade K",
+              "curriculum": {
+                "id": "em",
+                "name": "Eureka Math"
+              }
+            },
+            "product": {
+              "id": "affirm",
+              "name": "Affirm"
+            }
+          },
+          {
+            "course": {
+              "id": "em.g2",
+              "name": "Grade 2",
+              "curriculum": {
+                "id": "em",
+                "name": "Eureka Math"
+              }
+            },
+            "product": {
+              "id": "equip",
+              "name": "Equip"
+            }
+          }
+        ],
+        "grade": { "name": "Grade 1", "id": "01" },
+        "period": "Default",
+        "subject": "Test Sub",
+        "district": {
+          "id": "c577eeee-ac53-4c0f-aaf6-1795b4f84f0c",
+          "name": "Assessment Test District"
+        },
+        "school": {
+          "id": "974db194-7693-402e-acc3-33ae338b63cf",
+          "name": "Assessment School One"
+        },
+        "schoolYear": {
+          "id": "3745794b-ebcb-4c83-aed1-d7c37a6e1597",
+          "name": "2021-2022",
+          "subject": "Test Sub"
+        },
+        "totalStudents": "1",
+        "primaryTeacher": {
+          "id": "f6083067-067e-450b-ac91-ce1aa50b1df1",
+          "name": {
+            "first": "Teacher",
+            "middle": "",
+            "last": "Three",
+            "username": "sone.tthree@mailinator.com"
+          }
+        }
+      },
+      "syncErrors": []
+    },
+    {
+      "class": {
+        "id": "50f2c732-3d47-49b7-8f69-ff9e9b2410c3",
+        "name": "school1-class-E",
+        "teachers": [
+          {
+            "id": "fe4dc873-d572-4419-8bb9-e7faa627d76a",
+            "name": {
+              "first": "Teacher",
+              "middle": "",
+              "last": "Four",
+              "username": "sone.tfour@mailinator.com"
+            }
+          }
+        ],
+        "content": [
+          {
+            "course": {
+              "id": "em.gk",
+              "name": "Grade K",
+              "curriculum": {
+                "id": "em",
+                "name": "Eureka Math"
+              }
+            },
+            "product": {
+              "id": "affirm",
+              "name": "Affirm"
+            }
+          },
+          {
+            "course": {
+              "id": "ww.gk",
+              "name": "Grade K",
+              "curriculum": {
+                "id": "ww",
+                "name": "Wit & Wisdom"
+              }
+            },
+            "product": {
+              "id": "affirm",
+              "name": "Affirm"
+            }
+          }
+        ],
+        "grade": { "name": "Grade 1", "id": "01" },
+        "period": "Default",
+        "subject": "Test Sub",
+        "district": {
+          "id": "c577eeee-ac53-4c0f-aaf6-1795b4f84f0c",
+          "name": "Assessment Test District"
+        },
+        "school": {
+          "id": "974db194-7693-402e-acc3-33ae338b63cf",
+          "name": "Assessment School One"
+        },
+        "schoolYear": {
+          "id": "3745794b-ebcb-4c83-aed1-d7c37a6e1597",
+          "name": "2021-2022",
+          "subject": "Test Sub"
+        },
+        "totalStudents": "2",
+        "primaryTeacher": {
+          "id": "fe4dc873-d572-4419-8bb9-e7faa627d76a",
+          "name": {
+            "first": "Teacher",
+            "middle": "",
+            "last": "Four",
+            "username": "sone.tfour@mailinator.com"
+          }
+        }
+      },
+      "syncErrors": []
+    },
+    {
+      "class": {
+        "id": "bb65d330-6c80-4f07-95e6-581288456158",
+        "name": "school1-class-D",
+        "teachers": [
+          {
+            "id": "fe4dc873-d572-4419-8bb9-e7faa627d76a",
+            "name": {
+              "first": "Teacher",
+              "middle": "",
+              "last": "Four",
+              "username": "sone.tfour@mailinator.com"
+            }
+          }
+        ],
+        "content": [
+          {
+            "course": {
+              "id": "ww.gk",
+              "name": "Grade K",
+              "curriculum": {
+                "id": "ww",
+                "name": "Wit & Wisdom"
+              }
+            },
+            "product": {
+              "id": "affirm",
+              "name": "Affirm"
+            }
+          },
+          {
+            "course": {
+              "id": "ww.gk",
+              "name": "Grade K",
+              "curriculum": {
+                "id": "ww",
+                "name": "Wit & Wisdom"
+              }
+            },
+            "product": {
+              "id": "inkling",
+              "name": "Inkling"
+            }
+          },
+          {
+            "course": {
+              "id": "phd.gk",
+              "name": "Level K",
+              "curriculum": {
+                "id": "phd",
+                "name": "PhD Science"
+              }
+            },
+            "product": {
+              "id": "inkling",
+              "name": "Inkling"
+            }
+          }
+        ],
+        "grade": { "name": "Grade 1", "id": "01" },
+        "period": "Default",
+        "subject": "Test Sub",
+        "district": {
+          "id": "c577eeee-ac53-4c0f-aaf6-1795b4f84f0c",
+          "name": "Assessment Test District"
+        },
+        "school": {
+          "id": "974db194-7693-402e-acc3-33ae338b63cf",
+          "name": "Assessment School One"
+        },
+        "schoolYear": {
+          "id": "3745794b-ebcb-4c83-aed1-d7c37a6e1597",
+          "name": "2021-2022",
+          "subject": "Test Sub"
+        },
+        "totalStudents": "1",
+        "primaryTeacher": {
+          "id": "fe4dc873-d572-4419-8bb9-e7faa627d76a",
+          "name": {
+            "first": "Teacher",
+            "middle": "",
+            "last": "Four",
+            "username": "sone.tfour@mailinator.com"
+          }
+        }
+      },
+      "syncErrors": []
+    },
+    {
+      "class": {
+        "id": "c37e0710-f554-484a-96c8-82558f8594c4",
+        "name": "school1-class-A",
+        "teachers": [
+          {
+            "id": "03b50492-a06b-47bf-9a18-71d1ca4ff772",
+            "name": {
+              "first": "teacher",
+              "middle": "",
+              "last": "Analytics",
+              "username": "sone.t.analytics@mailinator.com"
+            }
+          },
+          {
+            "id": "0e41282a-671d-4c97-8c1f-4792214beb1e",
+            "name": {
+              "first": "Teacher",
+              "middle": "",
+              "last": "One",
+              "username": "sone.tone@mailinator.com"
+            }
+          }
+        ],
+        "content": [
+          {
+            "course": {
+              "id": "em.gk",
+              "name": "Grade K",
+              "curriculum": {
+                "id": "em",
+                "name": "Eureka Math"
+              }
+            },
+            "product": {
+              "id": "in-sync",
+              "name": "In Sync"
+            }
+          },
+          {
+            "course": {
+              "id": "ww.gk",
+              "name": "Grade K",
+              "curriculum": {
+                "id": "ww",
+                "name": "Wit & Wisdom"
+              }
+            },
+            "product": {
+              "id": "affirm",
+              "name": "Affirm"
+            }
+          },
+          {
+            "course": {
+              "id": "em.gk",
+              "name": "Grade K",
+              "curriculum": {
+                "id": "em",
+                "name": "Eureka Math"
+              }
+            },
+            "product": {
+              "id": "affirm",
+              "name": "Affirm"
+            }
+          },
+          {
+            "course": {
+              "id": "ww.gk",
+              "name": "Grade K",
+              "curriculum": {
+                "id": "ww",
+                "name": "Wit & Wisdom"
+              }
+            },
+            "product": {
+              "id": "in-sync",
+              "name": "In Sync"
+            }
+          },
+          {
+            "course": {
+              "id": "em.g2",
+              "name": "Grade 2",
+              "curriculum": {
+                "id": "em",
+                "name": "Eureka Math"
+              }
+            },
+            "product": {
+              "id": "equip",
+              "name": "Equip"
+            }
+          }
+        ],
+        "grade": { "name": "Grade 2", "id": "02" },
+        "period": "Default",
+        "subject": "Test Sub",
+        "district": {
+          "id": "c577eeee-ac53-4c0f-aaf6-1795b4f84f0c",
+          "name": "Assessment Test District"
+        },
+        "school": {
+          "id": "974db194-7693-402e-acc3-33ae338b63cf",
+          "name": "Assessment School One"
+        },
+        "schoolYear": {
+          "id": "3745794b-ebcb-4c83-aed1-d7c37a6e1597",
+          "name": "2021-2022",
+          "subject": "Test Sub"
+        },
+        "totalStudents": "10",
+        "primaryTeacher": {
+          "id": "0e41282a-671d-4c97-8c1f-4792214beb1e",
+          "name": {
+            "first": "Teacher",
+            "middle": "",
+            "last": "One",
+            "username": "sone.tone@mailinator.com"
+          }
+        }
+      },
+      "syncErrors": []
+    }
+  ]
+}
