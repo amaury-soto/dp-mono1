@@ -9,9 +9,11 @@
     "lerna": "^6.5.1"
   },
   "scripts": {
-    "start": "lerna exec --scope user-manager-app -- npm run dev"
+    "dev": "lerna exec --scope user-manager-app -- npm run dev & json-server --watch db/users.json --port 4000",
+    "json-server": "json-server --watch db/users.json --port 4000"
   },
   "dependencies": {
+    "json-server": "^0.17.3",
     "react-query": "^3.39.3"
   }
 }
