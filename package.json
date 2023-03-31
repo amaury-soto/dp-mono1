@@ -10,5 +10,8 @@
   },
   "scripts": {
     "start": "lerna exec --scope user-manager-app -- npm run dev"
+  },
+  "dependencies": {
+    "react-query": "^3.39.3"
   }
 }
